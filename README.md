@@ -2,8 +2,12 @@
 
 ### GPG Public key
 
-** fingerprint: 9673 1C17 316F A94A 61F7  69A2 5FE9 9A4E 44B2 FF75 **
-
+<details>
+  <summary>
+    fingerprint: 9673 1C17 316F A94A 61F7  69A2 5FE9 9A4E 44B2 FF75
+  </summary>
+  
+```plain
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGHa1LwBEACdo7I4hhMTj6diDWmhiQVBWBRHSnRQDNFkU8CSwJeZdUI6B/lK
@@ -113,6 +117,10 @@ FUzP6pDjawla0Z/GDG8/jVMPM2AI+FugXq+DvTHal6VhSuBV9ha40a8eNijhXar5
 m0vGmHNetE9knLBBx/4yWvDUFQ==
 =ts/A
 -----END PGP PUBLIC KEY BLOCK-----
+```
+
+
+</details>
 
 <!--
 **finpluto/finpluto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
